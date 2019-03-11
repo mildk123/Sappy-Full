@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Slabo+27px');
+
+
+html,body{
+    color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    height:100%;
+    width:100%;
+    overflow: auto;
+}
+.myComponent > h1{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    word-spacing: 20px;
+    text-align: center;
+    margin-top: 25%;
+    font-size: 500%;
+}
+
+.btnDiv{
+    position: relative;
+    text-align: center;
+    padding: 2%;
+}
+
